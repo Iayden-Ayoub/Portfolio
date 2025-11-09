@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+p{
+    width: 500px;
+    margin-left: 32%;
+}
+button{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
